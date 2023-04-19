@@ -251,3 +251,6 @@ In the same, you can confirm the successful deployment of our website on other n
 Conclusion
 In this blog, we learned how to write a playbook using Ansible on an EC2 instance and deploy a website on an Apache web server on multiple EC2 instances.
 
+Check my blog link for more details:
+Here is my blog link :
+https://lnkd.in/e4ayvsJC
