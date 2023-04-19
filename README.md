@@ -1,4 +1,4 @@
-Deploy Apache Web Server on Multiple EC2 Instances using Ansible Playbook
+Deploy a Website on an Apache Web Server on Multiple EC2 Instances using Ansible Playbook
 
 Why Ansible?
 
